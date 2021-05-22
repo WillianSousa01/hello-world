@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <link rel="stylesheet" href="/style/index.css">
+    <link rel="stylesheet" href="">
 
     <title>Dragon Ball|Mangás, músicas e muito mais...</title>
 </head>
@@ -13,7 +13,7 @@
 <body>
     <!-- bloco onde fica a logo e a descrição -->
     <section id="apresentaçao">
-        <img src="/imagens/DRAGON-BALL-Z-index.jpg" alt="Logo Dragon Ball">
+        <img src="" alt="Logo Dragon Ball">
 
         <p>
             Dragon Ball (ドラゴンボール Doragon Bōru?) é uma franquia de mídia japonesa criada por Akira Toriyama.
@@ -33,41 +33,41 @@
         <section id="links">
             <a href="/src/desenho.html">
                 <p>Desenho</p>
-                <img src="/imagens/desenhos-dbz-2.jpg" alt="Desenho do goku">
+                <img src="" alt="Desenho do goku">
             </a>
             <a href="/src/mangas.html">
                 <p>Mangás</p>
-                <img src="/imagens/Revista-dbz-1.jpg" alt="Revista do Dragon Ball">
+                <img src="" alt="Revista do Dragon Ball">
             </a>
             <!--</section>
         <section class="links"> -->
             <a href="/src/videoclipes.html">
                 <p>Videoclipes</p>
-                <img src="/imagens/videoclipe-dbz-2.jpg" alt="Videoclipe do Dragon Ball">
+                <img src="" alt="Videoclipe do Dragon Ball">
             </a>
             <a href="/src/músicas.html">
                 <p>Músicas</p>
-                <img src="/imagens/músicas-dbz-1.jpg" alt="Música do Dragon Ball">
+                <img src="" alt="Música do Dragon Ball">
             </a>
         </section>
 
 
         <section id="redes_sociais">
             <a href="#">
-                <img src="/imagens/facebook-logo.png" alt="Facebook">
+                <img src="" alt="Facebook">
                 <p>Facebook</p>
             </a>
 
             <a href="#">
-                <img src="/imagens/Instagram_logo.webp" alt="Instagram">
+                <img src="" alt="Instagram">
                 <p>Instagram</p>
             </a>
             <a href="#">
-                <img src="/imagens/twitter-logo.png" alt="Twitter">
+                <img src="" alt="Twitter">
                 <p>Twitter</p>
             </a>
             <a href="#">
-                <img src="/imagens/youtube-logo.png" alt="Youtube">
+                <img src="" alt="Youtube">
                 <p>Youtube</p>
             </a>
         </section>
